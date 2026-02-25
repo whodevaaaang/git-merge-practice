@@ -1,1 +1,2 @@
 Information from the non-fast-forward branch.
+This line is from the main branch!
