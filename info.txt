@@ -1,2 +1,6 @@
 Information from the non-fast-forward branch.
+<<<<<<< HEAD
 This line is from the main branch!
+=======
+This line is from feature-conflict-branch!
+>>>>>>> feature-conflict-branch
